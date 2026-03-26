@@ -1,0 +1,2 @@
+readelf -S task1
+.hbtn-custom size: 4 bytes
